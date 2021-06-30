@@ -1,0 +1,7 @@
+Dockerfile
+.dockerignore
+.gitlab-ci.yml
+.drone.yml
+node_modules
+tests
+.DS_Store
