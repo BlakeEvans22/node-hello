@@ -37,4 +37,4 @@ jobs:
         name: Build and Publish latest service image
         with:
           github-push-secret: ${{secrets.GITHUB_TOKEN}}
-          docker-image-name: node-hello
+          docker-image-name: node-hello2
